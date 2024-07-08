@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello I am shwet working on personal projects I have knowledge about many stuff
+
 <!--
 **SHWET-SINGHH/SHWET-SINGHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
